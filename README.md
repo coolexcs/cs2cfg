@@ -1,0 +1,24 @@
+# Files description
+-  autoexec.cfg 
+    - Main cfg file that includes all the "builder/*.cfg" files
+-  training.cfg
+    - Config for starting a custom warmup for training nades/boosts/etc.
+-  0.cfg
+    - Gives you some knives
+- Configs that are required by autoexec
+    - advancedbinds.cfg
+	    - Some advanced binds
+	- buybinds.cfg
+		- Binds for buying the most used items
+	- clx_settings.cfg
+	    - Some game settings that dont touch binds nor visuals
+	- crosshairs.cfg
+		- Displays every crosshair i might want to use in console
+	- defaultbinds.cfg
+		- Mostly, default binds with some non-default ones
+	- textchat.cfg
+		- Some agressive/useful text messages and settings
+	- voicechat.cfg 
+		- Voicechat settings/binds
+	- visuals.cfg
+	    - Some settings that touch visuals of the game
